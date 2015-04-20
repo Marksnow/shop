@@ -1,0 +1,96 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="/shop/Public/js/jquery-1.7.2.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/shop/Public/css/bootstrap.min.css">
+  <script type="text/javascript" charset="utf-8" src="/shop/Public/ueditor/ueditor.config.js"></script>
+  <script type="text/javascript" charset="utf-8" src="/shop/Public/ueditor/ueditor.all.min.js"> </script>
+
+</head>
+<body>
+
+   <div class="Published">
+   	 <div class="container">
+   	 	<h4>发布商品</h4>
+      <div class="col-lg-8 col-md-8"> 
+       <form action="/shop/Home/user/publish" enctype="multipart/form-data" method="post" id="form_1">
+       	  <div class="form-group col-lg-12">
+       	  	<label class="col-lg-2 ">商品名称</label>
+       	  	<div class="col-lg-3">
+       	  	   <input type="text" class="form-control" placeholder="" name="pro_name" id="p_name">
+               <span><?php echo ($Tip); ?></span>
+       	  	</div>
+       	  </div>
+
+       	   <div class="form-group col-lg-12">
+       	  	<label class="col-lg-2 ">商品类型</label>
+       	  	<div class="col-lg-3">
+               <select class="form-control" name="pro_type">
+                  <option value="0">电脑</option>
+                  <option value="1">人类</option>
+                  <option value="2">家电</option>
+               </select> 
+       	  	</div>
+       	  </div>
+
+       	  <div class="form-group col-lg-12">
+       	  	<label class="col-lg-2 ">商品价格</label>
+       	  	<div class="col-lg-3">
+       	  	   <input type="text" class="form-control" placeholder="" name="pro_price" id="p_price">
+       	  	</div>
+       	  </div>
+
+       	   <div class="form-group col-lg-12">
+       	  	<label class="col-lg-2 ">商品库存</label>
+       	  	<div class="col-lg-3">
+       	  	   <input type="text" class="form-control" placeholder="" name="pro_stocks" id="p_stocks"> 
+       	  	</div>
+       	  </div>
+
+       	  <div class="form-group col-lg-12">
+       	  	<label class="col-lg-2 ">上传商品</label>
+       	  	<div class="col-lg-3"><input type="file" name="file_1"></div>
+       	  	<div class="col-lg-3"><input type="file" name="file_2"></div>
+       	  	<div class="col-lg-3"><input type="file" name="file_3"></div>
+       	  	</div>
+       	  </div>
+          
+           <div class="form-group col-lg-12">
+       	  	<label class="col-lg-1">商品概述</label>
+       	  	<div class="col-lg-8">
+       	  	   <textarea class="form-control" rows="6" name="pro_detail" id="pro_detail" style="display: none;"></textarea>
+               
+              <script id="container" type="text/plain" style="height:500px;"></script>
+       	  	</div>
+
+            <script type="text/javascript">
+             var ue=UE.getEditor('container');
+             $(function(){
+                $("form").submit(function(){  
+                   $("#pro_detail").val(ue.getContent());
+                   });
+             })
+            
+            </script>
+            
+
+       	  </div>
+         
+         <div class="col-lg-12">
+          <button type="submit" class="btn btn-success">提交</button>
+         </div>
+       </form>
+     </div>
+
+   	 </div>
+  </div>
+   
+   
+  
+      
+      
+  
+  
+</body>
+</html>

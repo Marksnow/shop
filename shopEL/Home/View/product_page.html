@@ -1,0 +1,486 @@
+<extend name="./basic" />
+ <block name="index_shop">
+
+  <script>
+	$(document).ready(function() {
+		$('.jqzoom').jqzoom({
+			zoomType: 'standard',
+			lens:true,
+			preloadImages: true,
+			alwaysOn:false
+		});
+	});
+  </script>
+
+  <script>
+	$(document).ready(function() {
+		$('#wrapper_tab a').click(function() {
+			if ($(this).attr('class') != $('#wrapper_tab').attr('class') ) {
+				$('#wrapper_tab').attr('class',$(this).attr('class'));
+			}
+			return false;
+		});
+	});
+  </script>
+
+  <div class="clear"></div>
+
+  <div class="container_12">
+    <div class="grid_12">
+       <div class="breadcrumbs">
+	      <a href="index.html">主页</a><span>&#8250;</span><a href="#">类别</a><span>&#8250;</span><span class="current">此页面</span>
+       </div><!-- .breadcrumbs -->
+    </div><!-- .grid_12 -->
+  </div><!-- .container_12 -->
+
+  <div class="clear"></div>
+
+  <section id="main">
+    <div class="container_12">
+       <div id="sidebar" class="grid_3">
+	      <aside id="categories_nav">
+		     <h3>分类</h3>
+
+		     <nav class="left_menu">
+			    <ul>
+				   <li><a href="#">固体<span>(21)</span></a></li>
+				   <li><a href="#">液体 <span> (27)</span></a></li>
+				   <li><a href="#">喷 <span>(33)</span></a></li>
+				   <li><a href="#">电 <span>(17)</span></a></li>
+				   <li><a href="#">对于汽车 <span>(23)</span></a></li>
+				   <li><a href="#">对于房 <span>(7)</span></a></li>
+				   <li class="last"><a href="#">其他<span>(135)</span></a></li>
+			    </ul>
+		     </nav><!-- .left_menu -->
+	      </aside><!-- #categories_nav -->
+
+	      <aside id="specials" class="specials">
+		     <h3>Specials</h3>
+
+		     <ul>
+			    <li>
+				   <div class="prev">
+					  <a href="#"><img src="__PUBLIC__/images/special1.png" alt="" title="" /></a>
+				   </div>
+
+				   <div class="cont">
+					  <a href="#">金银花无焰广州周立功笔芯</a>
+					  <div class="prise"><span class="old">$177.00</span>$75.00</div>
+				   </div>
+			    </li>
+
+			    <li>
+				   <div class="prev">
+					  <a href="#"><img src="__PUBLIC__/images/special2.png" alt="" title="" /></a>
+				   </div>
+
+				   <div class="cont">
+					  <a href="#">金银花无焰广州周立功笔芯</a>
+					  <div class="prise"><span class="old">$177.00</span>$75.00</div>
+				   </div>
+			    </li>
+		     </ul>
+	      </aside><!-- #specials -->
+
+	      <aside id="newsletter_signup">
+		     <h3>订阅电子报</h3>
+		     <p>Phasellus VEL ultricies猫。 DUIS
+rhoncus risus欧盟乌仁娜的Pretium。</p>
+
+		     <form class="newsletter">
+			    <input type="email" name="newsletter" class="your_email" value="" placeholder="输入您的电子邮件地址..."/>
+			    <input type="submit" id="submit" value="Subscribe" />
+		     </form>
+	      </aside><!-- #newsletter_signup -->
+
+	      <aside id="banners">
+			<a id="ban_next" class="next arows" href="#"><span>下一步</span></a>
+			<a id="ban_prev" class="prev arows" href="#"><span>上一页</span></a>
+
+		<h3>横幅</h3>
+
+		<div class="list_carousel">
+			<ul id="list_banners">
+				<li class="banner"><a href="#">
+					<div class="prev">
+						<img src="__PUBLIC__/images/banner.png" alt="" title="" />
+					</div><!-- .prev -->
+
+					<h2>新的气味</h2>
+
+					<p>在接下来的系列</p>
+ 			        </a></li>
+
+				<li class="banner"><a href="#">
+					<div class="prev">
+						<img src="__PUBLIC__/images/banner.png" alt="" title="" />
+					</div><!-- .prev -->
+
+					<h2>新的气味</h2>
+
+					<p>在接下来的系列</p>
+ 			        </a></li>
+
+				<li class="banner"><a href="#">
+					<div class="prev">
+						<img src="__PUBLIC__/images/banner.png" alt="" title="" />
+					</div><!-- .prev -->
+
+					<h2>新的气味</h2>
+
+					<p>在接下来的系列</p>
+ 			        </a></li>
+
+			</ul>
+		</div><!-- .list_carousel -->
+	      </aside><!-- #banners -->
+
+	      <aside id="tags">
+		     <h3>标签</h3>
+		     <a class="t1" href="#">加利福尼亚州</a>
+		     <a class="t2" href="#">加拿大</a>
+		     <a class="t3" href="#">教规</a>
+		     <a class="t4" href="#">猫</a>
+		     <a class="t5" href="#">芝加哥</a>
+		     <a class="t6" href="#">圣诞节</a>
+		     <a class="t7" href="#">火星</a>
+		     <a class="t8" href="#">教堂</a>
+		     <a class="t9" href="#">城市</a>
+		     <a class="t10" href="#">云</a>
+		     <a class="t11" href="#">color</a>
+		     <a class="t12" href="#">concert</a>
+		     <a class="t13" href="#">dance</a>
+		     <a class="t14" href="#">day</a>
+		     <a class="t15" href="#">dog</a>
+		     <a class="t16" href="#">england</a>
+		     <a class="t17" href="#">europe</a>
+	      </aside><!-- #community_poll -->
+       </div><!-- .sidebar -->
+      
+     <volist name="infoma" id="INFO"><!---标签-->
+       
+       <div id="content" class="grid_9">
+	      <h1 class="page_title">{$INFO.product_name}</h1>
+
+		<div class="product_page">
+			<div class="grid_4 img_slid" id="products">
+				<img class="sale" src="__PUBLIC__/images/sale.png" alt="Sale"/>
+				<div class="preview slides_container">
+					<div class="prev_bg">
+						<a href="__PUBLIC__/upload/{$INFO.product_IMG}" class="jqzoom" rel='gal1' title="">
+							<img src="__PUBLIC__/upload/{$INFO.product_IMG}"  title="" alt=""/>
+						</a>
+					</div>
+				</div><!-- .prev -->
+
+				<ul class="pagination clearfix" id="thumblist">
+
+				   <volist name="img" id="pic"><!---标签-->
+						<li>
+						<a  href='javascript:void(0);' rel="<literal>{</literal>gallery: 'gal1', smallimage: '__PUBLIC__/upload/{$pic.product_IMG}',largeimage: '__PUBLIC__/upload/{$pic.product_IMG}'<literal>}</literal>"><img src='__PUBLIC__/upload/{$pic.product_IMG}' alt=""></a>
+						</li>
+					</volist><!---标签-->
+				</ul>
+
+				<div class="next_prev">
+					<a id="img_prev" class="arows" href="#"><span>上一页</span></a>
+					<a id="img_next" class="arows" href="#"><span>下一页</span></a>
+				</div><!-- . -->
+			</div><!-- .grid_4 -->
+
+			<div class="grid_5">
+				<div class="entry_content">
+					<div class="review">
+						<a class="plus" href="#"></a>
+						<a class="plus" href="#"></a>
+						<a class="plus" href="#"></a>
+						<a href="#"></a>
+						<a href="#"></a>
+						<span>1回顾（S）</span>
+						<a class="add_review" href="#">添加您的评论</a>
+					</div>
+					<p>{$INFO.product_name}</p>
+					<div class="ava_price">
+						<div class="availability_sku">
+							<div class="availability">
+								可用性： <span>库存({$INFO.product_stocks}&nbsp;件)</span>
+							</div>
+							<div class="sku">
+								SKU: <span>{$INFO.product_type}</span>
+							</div>
+						</div><!-- .availability_sku -->
+
+						<div class="price">
+							<div class="price_new">￥&nbsp;{$INFO.product_price}</div>
+							<div class="price_old">￥&nbsp;725.00</div>
+						</div><!-- .price -->
+					</div><!-- .ava_price -->
+
+					<div class="block_cart">
+						<div class="obn_like">
+							<div class="obn"><a href="#" class="obn">加入比较</a></div>
+							<div class="like"><a href="#" class="like">添加到收藏</a></div>
+						</div>
+
+						<div class="cart">
+							<a href="javascript:;" class="bay" SHOP="{$INFO.product_id}">添加到购物车</a>
+							<input type="text" name="" class="number" value="1" />
+							<span>数量：</span>
+						</div>
+						<div class="clear"></div>
+					</div><!-- .block_cart -->
+					<div class="soc">
+						<img src="__PUBLIC__/images/soc.png" alt="Soc"/>
+					</div><!-- .soc -->
+				</div><!-- .entry_content -->
+
+			</div><!-- .grid_5 -->
+
+			<div class="clear"></div>
+
+			<div class="grid_9" >
+				<div id="wrapper_tab" class="tab1">
+					<a href="#" class="tab1 tab_link">描述</a>
+					<a href="#" class="tab2 tab_link">点评</a>
+					<a href="#" class="tab3 tab_link">自定义选项卡</a>
+
+					<div class="clear"></div>
+
+					<div class="tab1 tab_body">
+						{$INFO.product_detail}
+					<div class="clear"></div>
+					
+					</div><!-- .tab1 .tab_body -->
+
+					<div class="tab2 tab_body">
+						<h4>顾客评论</h4>
+						<ul class="comments">
+							<li>
+								<div class="autor">迈克示例</div>, <time datetime="2012-11-03">03.11.2012</time>
+
+								<div class="evaluation">
+									<div class="quality">
+										<strong>质量</strong>
+										<a class="plus" href="#"></a>
+										<a class="plus" href="#"></a>
+										<a class="plus" href="#"></a>
+										<a href="#"></a>
+										<a href="#"></a>
+									</div>
+									<div class="price">
+										<strong>价格</strong>
+										<a class="plus" href="#"></a>
+										<a class="plus" href="#"></a>
+										<a class="plus" href="#"></a>
+										<a class="plus_minus" href="#"></a>
+										<a href="#"></a>
+									</div>
+									<div class="clear"></div>
+								</div><!-- .evaluation -->
+
+								<p>Suspendisse在placerat turpis。 DUIS luctus ERAT VEL麦格纳pharetra aliquet。保护者tincidunt feugiat ultricies。 Phasellus等DUI risus。前庭adipiscing，爱神QUIS lobortis格言。</p>
+							</li>
+
+							<li>
+								<div class="autor">迈克示例</div>, <time datetime="2012-11-03">03.11.2012</time>
+
+								<div class="evaluation">
+									<div class="quality">
+										<strong>质量</strong>
+										<a class="plus" href="#"></a>
+										<a class="plus" href="#"></a>
+										<a class="plus" href="#"></a>
+										<a class="plus" href="#"></a>
+										<a class="plus_minus" href="#"></a>
+									</div>
+									<div class="price">
+										<strong>价格</strong>
+										<a class="plus" href="#"></a>
+										<a class="plus" href="#"></a>
+										<a class="plus" href="#"></a>
+										<a class="plus" href="#"></a>
+										<a href="#"></a>
+									</div>
+									<div class="clear"></div>
+								</div><!-- .evaluation -->
+
+								<p>Etiam油树volutpat奥迪奥，ID euismod胡斯托孕妇一。 Aliquam ERAT volutpat。 Phasellus faucibus venenatis LOREM，简历commodo ELIT的Pretium等。 DUIS rhoncus lobortis congue。前庭等普鲁斯DUI，韦尔PORTA lectus。桑达vulputate枕adipiscing。</p>
+							</li>
+						</ul><!-- .comments -->
+
+						<form class="add_comments">
+							<h4>发表您的评论</h4>
+
+							<div class="evaluation">
+								<div class="quality">
+									<strong>质量</strong><sup class="surely">*</sup>
+									<input class="niceRadio" type="radio" name="quality" value="1" /><span class="eva_num">1</span>
+									<input class="niceRadio" type="radio" name="quality" value="2" /><span class="eva_num">2</span>
+									<input class="niceRadio" type="radio" name="quality" value="3" /><span class="eva_num">3</span>
+									<input class="niceRadio" type="radio" name="quality" value="4" /><span class="eva_num">4</span>
+									<input class="niceRadio" type="radio" name="quality" value="5" /><span class="eva_num">5</span>
+								</div>
+								<div class="price">
+									<strong>价格</strong><sup class="surely">*</sup>
+									<input class="niceRadio" type="radio" name="price" value="1" /><span class="eva_num">1</span>
+									<input class="niceRadio" type="radio" name="price" value="2" /><span class="eva_num">2</span>
+									<input class="niceRadio" type="radio" name="price" value="3" /><span class="eva_num">3</span>
+									<input class="niceRadio" type="radio" name="price" value="4" /><span class="eva_num">4</span>
+									<input class="niceRadio" type="radio" name="price" value="5" /><span class="eva_num">5</span>
+								</div>
+								<div class="clear"></div>
+							</div><!-- .evaluation -->
+
+							<div class="nickname">
+								<strong>绰号</strong><sup class="surely">*</sup><br/>
+								<input type="text" name="" class="" value="" />
+							</div><!-- .nickname -->
+
+							<div class="your_review">
+								<strong>您的评论内容</strong><sup class="surely">*</sup><br/>
+								<input type="text" name="" class="" value="" />
+							</div><!-- .your_review -->
+
+							<div class="clear"></div>
+
+							<div class="text_review">
+								<strong>评论</strong><sup class="surely">*</sup><br/>
+								<textarea name="text"></textarea>
+								<i>注意：不支持HTML代码！</i>
+							</div><!-- .text_review -->
+
+							<input type="submit" value="Submit Review" />
+						</form><!-- .add_comments -->
+					<div class="clear"></div>
+					</div><!-- .tab2 .tab_body -->
+
+					<div class="tab3 tab_body">
+						<h4>Custom Tab</h4>
+					<div class="clear"></div>
+					</div><!-- .tab3 .tab_body -->
+					<div class="clear"></div>
+				</div>​<!-- #wrapper_tab -->
+				<div class="clear"></div>
+			</div><!-- .grid_9 -->
+
+          </volist><!---标签-->
+		
+
+			<div class="clear"></div>
+
+			<div class="related">
+				<div class="c_header">
+					<div class="grid_7">
+						<h2>相关产品</h2>
+					</div><!-- .grid_7 -->
+
+					<div class="grid_2">
+						<a id="next_c1" class="next arows" href="#"><span>下一页</span></a>
+						<a id="prev_c1" class="prev arows" href="#"><span>上一页</span></a>
+					</div><!-- .grid_2 -->
+				</div><!-- .c_header -->
+
+				<div class="list_carousel">
+
+				<ul id="list_product" class="list_product">
+					<li class="">
+						<div class="grid_3 product">
+							<img class="sale" src="__PUBLIC__/images/sale.png" alt="Sale"/>
+							<div class="prev">
+								<a href="product_page.html"><img src="__PUBLIC__/images/product_1.png" alt="" title="" /></a>
+							</div><!-- .prev -->
+							<h3 class="title">纺必适航影响新西兰温泉</h3>
+							<div class="cart">
+								<div class="price">
+									<div class="vert">
+										<div class="price_new">$550.00</div>
+										<div class="price_old">$725.00</div>
+									</div>
+								</div>
+								<a href="#" class="obn"></a>
+								<a href="#" class="like"></a>
+								<a href="#" class="bay"></a>
+							</div><!-- .cart -->
+						</div><!-- .grid_3 -->
+					</li>
+
+					<li class="">
+						<div class="grid_3 product">
+							<div class="prev">
+								<a href="product_page.html"><img src="__PUBLIC__/images/product_2.png" alt="" title="" /></a>
+							</div><!-- .prev -->
+							<h3 class="title">纺必适航影响新西兰温泉</h3>
+							<div class="cart">
+								<div class="price">
+									<div class="vert">
+										<div class="price_new">$550.00</div>
+										<div class="price_old">$725.00</div>
+									</div>
+								</div>
+								<a href="#" class="obn"></a>
+								<a href="#" class="like"></a>
+								<a href="#" class="bay"></a>
+							</div><!-- .cart -->
+						</div><!-- .grid_3 -->
+					</li>
+
+					<li class="">
+						<div class="grid_3 product">
+							<div class="prev">
+								<a href="product_page.html"><img src="__PUBLIC__/images/product_3.png" alt="" title="" /></a>
+							</div><!-- .prev -->
+							<h3 class="title">纺必适航影响新西兰温泉</h3>
+							<div class="cart">
+								<div class="price">
+									<div class="vert">
+										<div class="price_new">$550.00</div>
+										<div class="price_old">$725.00</div>
+									</div>
+								</div>
+								<a href="#" class="obn"></a>
+								<a href="#" class="like"></a>
+								<a href="#" class="bay"></a>
+							</div><!-- .cart -->
+						</div><!-- .grid_3 -->
+					</li>
+
+					<li class="">
+						<div class="grid_3 product">
+							<div class="prev">
+								<a href="product_page.html"><img src="images/product_4.png" alt="" title="" /></a>
+							</div><!-- .prev -->
+							<h3 class="title">纺必适航影响新西兰温泉</h3>
+							<div class="cart">
+								<div class="price">
+									<div class="vert">
+										<div class="price_new">$550.00</div>
+										<div class="price_old">$725.00</div>
+									</div>
+								</div>
+								<a href="#" class="obn"></a>
+								<a href="#" class="like"></a>
+								<a href="#" class="bay"></a>
+							</div><!-- .cart -->
+						</div><!-- .grid_3 -->
+					</li>
+			        </ul><!-- #list_product -->
+				</div><!-- .list_carousel -->
+			</div><!-- .carousel -->
+		</div><!-- .product_page -->
+		<div class="clear"></div>
+
+       </div><!-- #content -->
+
+      <div class="clear"></div>
+
+    </div><!-- .container_12 -->
+  </section><!-- #main -->
+
+  <div class="clear"></div>
+
+ 
+  
+ 
+
+</block><!---标签-->
+  

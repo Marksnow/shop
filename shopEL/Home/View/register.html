@@ -1,0 +1,79 @@
+<extend name="./basic" />
+<block name="index_register">
+
+  <section id="main" class="entire_width register">
+    <div class="container_12">      
+       <div id="content">
+		<div class="grid_12">
+			<h1 class="page_title">创建帐户</h1>
+		</div><!-- .grid_12 -->
+
+		<if condition="$msg.msg eq 1">
+           
+           <div class="grid_6 new_customers">
+                <h2>恭喜你注册成功！</h2>
+				<p>通过创建我们的商店的帐户，你就可以通过移动结帐过程更快，存储多个送货地址，查看在您的帐户，更跟踪您的订单</p>
+				<div class="clear"></div>
+				<button class="account"><a href="/shop/Home/index/login">登录</a></button>
+	        </div><!-- .grid_6 -->
+			
+	    <else />
+
+		<div class="grid_6 new_customers">
+			<h2>老客户</h2>
+			<p>通过创建我们的商店的帐户，你就可以通过移动结帐过程更快，存储多个送货地址，查看在您的帐户，更跟踪您的订单</p>
+			<div class="clear"></div>
+			<button class="account"><a href="/shop/Home/index/login">登录</a></button>
+        </div><!-- .grid_6 -->
+	
+	  
+		<div class="grid_6">
+			<form class="registed" name="reg_form" method="post" action="/Shop/Home/index/register">
+				<h2>创建帐户</h2>
+							
+        <div class="">
+          <strong>用户名：</strong><sup class="surely">*</sup><br/>
+          <input type="text" name="user" class="cla_user" value="" />
+        </div><!-- .email -->
+							
+				<div class="password">
+					<strong>密码:</strong><sup class="surely">*</sup><br/>
+					<input type="password" name="pass" class="pass" value="" />
+				</div><!-- .password -->
+
+        <div class="">
+          <strong>地址：</strong><sup class="surely">*</sup><br/>
+          <input type="text" name="address" class="cla_adre" value="" />
+        </div><!-- .email -->
+
+         <div class="">
+          <strong>电子邮件：</strong><sup class="surely">*</sup><br/>
+          <input type="email" name="email" class="" value="" />
+        </div><!-- .email -->
+
+        <div class="code_ver">
+          <strong>验证码：</strong><sup class="surely">*</sup><br/>
+          <input type="text" name="code" class="code" value="" />
+          <div class="code_img"><img src="{:U('Home/index/verify_c',array())}" title="点击刷新" /></div>
+          <span class="code_info" style=""></span>
+        </div><!-- .email -->
+						
+				<div class="submit">										
+					<input type="submit" value="注册" />
+					<sup class="surely">*</sup><span>必填字段</span>
+				</div><!-- .submit -->
+			</form><!-- .registed -->
+                </div><!-- .grid_6 -->
+       </div>
+       <!-- #content -->
+     </if>
+
+      <div class="clear"></div>
+    </div><!-- .container_12 -->
+  </section><!-- #main -->
+  
+  <div class="clear"></div>
+  
+</block>
+    
+  

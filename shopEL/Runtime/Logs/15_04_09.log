@@ -1,0 +1,2123 @@
+[ 2015-04-09T09:46:40+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001760s ]
+
+[ 2015-04-09T09:50:03+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001243s ]
+
+[ 2015-04-09T10:23:24+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2015-04-09T10:24:50+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2015-04-09T10:24:52+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2015-04-09T10:24:57+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2015-04-09T10:26:07+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2015-04-09T10:26:08+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2015-04-09T10:26:26+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003814s ]
+
+[ 2015-04-09T10:30:27+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2015-04-09T10:30:34+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2015-04-09T10:31:13+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2015-04-09T10:31:14+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003873s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004142s ]
+ERR: Think\Model:error方法不存在！
+
+[ 2015-04-09T10:34:24+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2015-04-09T10:34:25+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+ERR: Think\Model:upload方法不存在！
+
+[ 2015-04-09T10:34:53+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2015-04-09T10:34:54+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2015-04-09T10:35:04+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2015-04-09T10:38:18+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2015-04-09T10:38:19+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2015-04-09T10:42:11+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2015-04-09T10:42:12+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2015-04-09T10:42:56+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2015-04-09T10:42:57+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2015-04-09T10:48:30+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2015-04-09T10:48:31+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2015-04-09T10:53:13+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009014s ]
+
+[ 2015-04-09T10:53:15+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2015-04-09T10:54:11+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2015-04-09T10:54:12+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2015-04-09T11:01:58+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2015-04-09T11:02:00+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2015-04-09T11:05:19+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2015-04-09T11:05:20+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.006183s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006460s ]
+
+[ 2015-04-09T11:44:26+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2015-04-09T11:53:16+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2015-04-09T11:53:17+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2015-04-09T11:54:06+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2015-04-09T11:54:07+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2015-04-09T11:54:55+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2015-04-09T11:55:01+08:00 ] 127.0.0.1 /shop/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014720s ]
+
+[ 2015-04-09T11:55:32+08:00 ] 127.0.0.1 /shop/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2015-04-09T11:55:32+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2015-04-09T11:55:37+08:00 ] 127.0.0.1 /shop/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2015-04-09T11:55:38+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2015-04-09T11:55:47+08:00 ] 127.0.0.1 /shop/Home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2015-04-09T11:55:47+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2015-04-09T12:28:15+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2015-04-09T12:28:21+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2015-04-09T12:30:37+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2015-04-09T12:30:43+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006802s ]
+
+[ 2015-04-09T12:31:23+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2015-04-09T12:31:24+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2015-04-09T12:33:07+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2015-04-09T12:33:18+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2015-04-09T12:34:32+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2015-04-09T12:35:43+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2015-04-09T12:35:44+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2015-04-09T12:38:47+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2015-04-09T12:38:52+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2015-04-09T12:39:41+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2015-04-09T12:39:53+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2015-04-09T12:40:33+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2015-04-09T12:40:40+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2015-04-09T12:41:04+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2015-04-09T12:41:06+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2015-04-09T12:41:46+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+
+[ 2015-04-09T12:41:50+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2015-04-09T12:49:09+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2015-04-09T12:49:11+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2015-04-09T12:49:51+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2015-04-09T12:49:52+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.013337s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013651s ]
+
+[ 2015-04-09T12:51:20+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2015-04-09T12:51:21+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2015-04-09T12:53:52+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2015-04-09T12:53:55+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+
+[ 2015-04-09T12:54:17+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2015-04-09T12:54:19+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2015-04-09T13:00:43+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2015-04-09T13:13:53+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2015-04-09T13:14:11+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2015-04-09T13:14:16+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001964s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002263s ]
+
+[ 2015-04-09T13:14:21+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2015-04-09T13:14:33+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2015-04-09T13:14:56+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2015-04-09T13:16:22+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2015-04-09T13:18:00+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2015-04-09T13:18:16+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+
+[ 2015-04-09T13:19:43+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2015-04-09T13:19:57+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2015-04-09T13:20:39+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.005515s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005804s ]
+
+[ 2015-04-09T13:21:27+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2015-04-09T13:25:52+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2015-04-09T13:26:09+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2015-04-09T13:26:45+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2015-04-09T14:07:00+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2015-04-09T14:09:10+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2015-04-09T14:14:45+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2015-04-09T14:15:09+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2015-04-09T14:18:32+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2015-04-09T14:18:32+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2015-04-09T14:18:32+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2015-04-09T14:18:32+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2015-04-09T14:18:50+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2015-04-09T14:19:03+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2015-04-09T14:20:08+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2015-04-09T14:21:53+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2015-04-09T14:23:18+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2015-04-09T14:24:15+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2015-04-09T14:24:30+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2015-04-09T14:43:54+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2015-04-09T14:44:12+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2015-04-09T14:45:02+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004477s ]
+
+[ 2015-04-09T14:48:37+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2015-04-09T14:49:04+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2015-04-09T14:49:13+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2015-04-09T14:50:49+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2015-04-09T14:51:49+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2015-04-09T14:51:56+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2015-04-09T14:51:58+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2015-04-09T14:55:47+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2015-04-09T14:56:00+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2015-04-09T14:56:20+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2015-04-09T14:57:58+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2015-04-09T15:06:31+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2015-04-09T15:07:00+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010124s ]
+
+[ 2015-04-09T15:07:47+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2015-04-09T15:08:11+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2015-04-09T15:08:40+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013718s ]
+
+[ 2015-04-09T15:32:32+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2015-04-09T15:33:03+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2015-04-09T15:33:05+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail&shopname=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+ERR: 非法操作:shop_detail&shopname=雷神
+
+[ 2015-04-09T15:33:26+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2015-04-09T15:33:31+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?shopname=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+
+[ 2015-04-09T15:34:14+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003199s ]
+
+[ 2015-04-09T15:34:24+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2015-04-09T15:48:24+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2015-04-09T15:50:33+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2015-04-09T15:51:20+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2015-04-09T15:51:42+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2015-04-09T15:53:22+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008799s ]
+
+[ 2015-04-09T15:59:32+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2015-04-09T16:00:56+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2015-04-09T16:03:46+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2015-04-09T16:04:32+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-04-09T16:12:53+08:00 ] 127.0.0.1 /shop/Home/index/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008346s ]
+
+[ 2015-04-09T16:12:53+08:00 ] 127.0.0.1 /shop/Home/index/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+
+[ 2015-04-09T16:12:55+08:00 ] 127.0.0.1 /shop/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2015-04-09T16:13:30+08:00 ] 127.0.0.1 /shop/Home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2015-04-09T16:13:30+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004452s ]
+
+[ 2015-04-09T16:23:13+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2015-04-09T16:23:20+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2015-04-09T16:24:06+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+
+[ 2015-04-09T16:28:03+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+
+[ 2015-04-09T16:28:10+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2015-04-09T16:30:20+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2015-04-09T16:30:22+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2015-04-09T16:30:56+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2015-04-09T16:31:00+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2015-04-09T16:31:57+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2015-04-09T16:32:00+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2015-04-09T16:32:45+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003337s ]
+
+[ 2015-04-09T16:32:48+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2015-04-09T16:33:34+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2015-04-09T16:33:36+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2015-04-09T16:34:18+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+
+[ 2015-04-09T16:34:20+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005215s ]
+
+[ 2015-04-09T16:36:56+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+
+[ 2015-04-09T16:37:59+08:00 ] 127.0.0.1 /shop/Home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008717s ]
+
+[ 2015-04-09T16:37:59+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008730s ]
+
+[ 2015-04-09T16:38:04+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2015-04-09T16:38:04+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336?radom=0.8300730252983279
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2015-04-09T16:38:04+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336?radom=0.8300730252983279?radom=0.9020218285907237
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2015-04-09T16:38:04+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336?radom=0.8300730252983279?radom=0.9020218285907237?radom=0.9734245992696835
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+
+[ 2015-04-09T16:38:06+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336?radom=0.8300730252983279?radom=0.9020218285907237?radom=0.9734245992696835?radom=0.6404372420916205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2015-04-09T16:38:06+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336?radom=0.8300730252983279?radom=0.9020218285907237?radom=0.9734245992696835?radom=0.6404372420916205?radom=0.30887704505882496
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+
+[ 2015-04-09T16:38:06+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336?radom=0.8300730252983279?radom=0.9020218285907237?radom=0.9734245992696835?radom=0.6404372420916205?radom=0.30887704505882496?radom=0.6382435906239486
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2015-04-09T16:38:06+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336?radom=0.8300730252983279?radom=0.9020218285907237?radom=0.9734245992696835?radom=0.6404372420916205?radom=0.30887704505882496?radom=0.6382435906239486?radom=0.7713697896103664
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2015-04-09T16:38:06+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336?radom=0.8300730252983279?radom=0.9020218285907237?radom=0.9734245992696835?radom=0.6404372420916205?radom=0.30887704505882496?radom=0.6382435906239486?radom=0.7713697896103664?radom=0.8193040896759161
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+
+[ 2015-04-09T16:38:06+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336?radom=0.8300730252983279?radom=0.9020218285907237?radom=0.9734245992696835?radom=0.6404372420916205?radom=0.30887704505882496?radom=0.6382435906239486?radom=0.7713697896103664?radom=0.8193040896759161?radom=0.06742464273605064
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2015-04-09T16:38:12+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336?radom=0.8300730252983279?radom=0.9020218285907237?radom=0.9734245992696835?radom=0.6404372420916205?radom=0.30887704505882496?radom=0.6382435906239486?radom=0.7713697896103664?radom=0.8193040896759161?radom=0.06742464273605064?radom=0.7453206649385928
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2015-04-09T16:38:12+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336?radom=0.8300730252983279?radom=0.9020218285907237?radom=0.9734245992696835?radom=0.6404372420916205?radom=0.30887704505882496?radom=0.6382435906239486?radom=0.7713697896103664?radom=0.8193040896759161?radom=0.06742464273605064?radom=0.7453206649385928?radom=0.3834055669048406
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2015-04-09T16:38:12+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html?radom=0.18597361250649336?radom=0.8300730252983279?radom=0.9020218285907237?radom=0.9734245992696835?radom=0.6404372420916205?radom=0.30887704505882496?radom=0.6382435906239486?radom=0.7713697896103664?radom=0.8193040896759161?radom=0.06742464273605064?radom=0.7453206649385928?radom=0.3834055669048406?radom=0.09522500274938561
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2015-04-09T16:39:40+08:00 ] 127.0.0.1 /shop/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2015-04-09T16:39:46+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2015-04-09T16:50:08+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2015-04-09T16:50:36+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2015-04-09T16:50:56+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2015-04-09T16:51:16+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2015-04-09T16:51:20+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-04-09T16:51:57+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2015-04-09T16:52:14+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2015-04-09T16:52:31+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.016076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016330s ]
+
+[ 2015-04-09T16:52:43+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2015-04-09T16:53:05+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2015-04-09T16:54:25+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003755s ]
+
+[ 2015-04-09T16:54:48+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2015-04-09T16:55:01+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2015-04-09T16:56:33+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005327s ]
+
+[ 2015-04-09T16:58:14+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2015-04-09T17:00:12+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006157s ]
+
+[ 2015-04-09T17:01:11+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2015-04-09T17:01:26+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011650s ]
+
+[ 2015-04-09T17:01:47+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2015-04-09T17:08:26+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2015-04-09T17:10:42+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2015-04-09T17:10:50+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2015-04-09T17:12:24+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+
+[ 2015-04-09T17:12:51+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2015-04-09T17:15:14+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2015-04-09T17:16:01+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2015-04-09T17:16:19+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2015-04-09T17:16:51+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2015-04-09T17:17:08+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2015-04-09T17:18:37+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2015-04-09T17:19:19+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2015-04-09T17:21:10+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+
+[ 2015-04-09T17:22:07+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2015-04-09T17:23:04+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.005221s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005789s ]
+
+[ 2015-04-09T17:24:17+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004849s ]
+
+[ 2015-04-09T17:26:12+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000789s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001156s ]
+
+[ 2015-04-09T17:26:14+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2015-04-09T17:26:46+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2015-04-09T17:26:48+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2015-04-09T17:27:53+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2015-04-09T17:27:55+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2015-04-09T17:28:09+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021480s ]
+
+[ 2015-04-09T17:28:11+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2015-04-09T17:28:30+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2015-04-09T17:28:42+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2015-04-09T17:29:25+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2015-04-09T17:29:35+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2015-04-09T17:29:50+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2015-04-09T17:30:14+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2015-04-09T17:30:47+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002855s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003198s ]
+
+[ 2015-04-09T17:31:16+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2015-04-09T18:43:12+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2015-04-09T18:43:46+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2015-04-09T18:44:01+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+
+[ 2015-04-09T18:44:57+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2015-04-09T18:44:58+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+
+[ 2015-04-09T18:47:19+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2015-04-09T18:47:20+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2015-04-09T18:48:50+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+
+[ 2015-04-09T18:49:18+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2015-04-09T18:50:02+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2015-04-09T18:51:45+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+
+[ 2015-04-09T18:51:46+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2015-04-09T18:52:10+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+
+[ 2015-04-09T18:52:20+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2015-04-09T18:52:48+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2015-04-09T18:52:49+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001322s ]
+
+[ 2015-04-09T18:52:59+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+
+[ 2015-04-09T18:54:53+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2015-04-09T18:55:26+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2015-04-09T18:55:34+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+
+[ 2015-04-09T18:57:16+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2015-04-09T18:57:50+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2015-04-09T18:58:00+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2015-04-09T18:58:03+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+
+[ 2015-04-09T18:58:15+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2015-04-09T18:58:22+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2015-04-09T18:58:34+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2015-04-09T18:58:35+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2015-04-09T18:59:18+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2015-04-09T18:59:56+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2015-04-09T19:00:16+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2015-04-09T19:00:35+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2015-04-09T19:04:50+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2015-04-09T19:05:50+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+
+[ 2015-04-09T19:06:08+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2015-04-09T19:07:07+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2015-04-09T19:07:46+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+
+[ 2015-04-09T19:09:03+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2015-04-09T19:18:04+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+
+[ 2015-04-09T19:18:17+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2015-04-09T19:18:38+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2015-04-09T19:18:51+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+
+[ 2015-04-09T19:19:24+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2015-04-09T19:19:50+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2015-04-09T19:19:59+08:00 ] 127.0.0.1 /shop/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2015-04-09T19:20:02+08:00 ] 127.0.0.1 /shop/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2015-04-09T19:20:02+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2015-04-09T19:20:04+08:00 ] 127.0.0.1 /shop/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001264s ]
+
+[ 2015-04-09T19:20:19+08:00 ] 127.0.0.1 /shop/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+
+[ 2015-04-09T19:20:19+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2015-04-09T19:20:27+08:00 ] 127.0.0.1 /shop/Home/index/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2015-04-09T19:20:27+08:00 ] 127.0.0.1 /shop/Home/index/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2015-04-09T19:20:29+08:00 ] 127.0.0.1 /shop/Home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2015-04-09T19:20:29+08:00 ] 127.0.0.1 /shop/index.php/Home/index/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2015-04-09T19:20:57+08:00 ] 127.0.0.1 /Shop/Home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2015-04-09T19:21:07+08:00 ] 127.0.0.1 /shop/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2015-04-09T19:21:14+08:00 ] 127.0.0.1 /shop/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2015-04-09T19:21:14+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2015-04-09T19:21:26+08:00 ] 127.0.0.1 /shop/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2015-04-09T19:21:26+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2015-04-09T19:21:37+08:00 ] 127.0.0.1 /shop/Home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2015-04-09T19:21:38+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2015-04-09T19:22:33+08:00 ] 127.0.0.1 /shop/Home/index/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2015-04-09T19:22:33+08:00 ] 127.0.0.1 /shop/Home/index/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2015-04-09T19:22:36+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2015-04-09T19:25:31+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2015-04-09T19:25:40+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2015-04-09T19:26:00+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2015-04-09T19:58:21+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2015-04-09T19:58:58+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2015-04-09T19:59:07+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2015-04-09T20:00:59+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001086s ]
+
+[ 2015-04-09T20:01:35+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+
+[ 2015-04-09T20:02:42+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+
+[ 2015-04-09T20:03:29+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2015-04-09T20:06:24+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2015-04-09T20:06:45+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2015-04-09T20:10:27+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2015-04-09T20:13:15+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2015-04-09T20:13:17+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2015-04-09T21:29:59+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2015-04-09T21:30:01+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+
+[ 2015-04-09T21:30:19+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+
+[ 2015-04-09T21:30:20+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2015-04-09T21:31:07+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001338s ]
+
+[ 2015-04-09T21:31:07+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2015-04-09T21:31:30+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2015-04-09T21:31:31+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2015-04-09T21:32:47+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+
+[ 2015-04-09T21:32:48+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+
+[ 2015-04-09T21:33:23+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001704s ]
+
+[ 2015-04-09T21:33:24+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2015-04-09T21:33:36+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2015-04-09T21:33:36+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001043s ]
+
+[ 2015-04-09T21:34:53+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+
+[ 2015-04-09T21:34:53+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001048s ]
+
+[ 2015-04-09T21:36:58+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001315s ]
+
+[ 2015-04-09T21:36:59+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2015-04-09T21:38:00+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2015-04-09T21:56:17+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2015-04-09T21:56:18+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2015-04-09T22:01:50+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2015-04-09T22:01:52+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2015-04-09T22:04:28+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2015-04-09T22:04:29+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+
+[ 2015-04-09T22:04:53+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2015-04-09T22:05:28+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2015-04-09T22:06:22+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2015-04-09T22:15:02+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2015-04-09T22:15:18+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2015-04-09T22:17:22+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2015-04-09T22:18:30+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2015-04-09T22:20:45+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2015-04-09T22:21:01+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2015-04-09T22:22:12+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2015-04-09T22:22:18+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2015-04-09T22:22:44+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2015-04-09T22:24:06+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2015-04-09T22:27:06+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2015-04-09T22:32:10+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2015-04-09T22:32:43+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2015-04-09T22:37:31+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2015-04-09T22:38:00+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2015-04-09T22:41:34+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2015-04-09T22:41:34+08:00 ] 127.0.0.1 /shop/Home/Public/2015-04-09/55265a9e124b7.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+ERR: 无法加载控制器:Public
+
+[ 2015-04-09T22:41:34+08:00 ] 127.0.0.1 /shop/Home/Public/2015-04-09/55265a9e178e6.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001407s ]
+ERR: 无法加载控制器:Public
+
+[ 2015-04-09T22:41:34+08:00 ] 127.0.0.1 /shop/Home/Public/2015-04-09/55265a9e16d05.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载控制器:Public
+
+[ 2015-04-09T22:41:42+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2015-04-09T22:41:42+08:00 ] 127.0.0.1 /shop/Home/Public/2015-04-09/55265a9e16d05.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载控制器:Public
+
+[ 2015-04-09T22:41:42+08:00 ] 127.0.0.1 /shop/Home/Public/2015-04-09/55265a9e124b7.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载控制器:Public
+
+[ 2015-04-09T22:41:42+08:00 ] 127.0.0.1 /shop/Home/Public/2015-04-09/55265a9e178e6.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载控制器:Public
+
+[ 2015-04-09T22:42:03+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2015-04-09T22:42:03+08:00 ] 127.0.0.1 /shop/Home/index/Public/2015-04-09/55265a9e178e6.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+ERR: 非法操作:Public
+
+[ 2015-04-09T22:42:03+08:00 ] 127.0.0.1 /shop/Home/index/Public/2015-04-09/55265a9e16d05.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004326s ]
+ERR: 非法操作:Public
+
+[ 2015-04-09T22:42:03+08:00 ] 127.0.0.1 /shop/Home/index/Public/2015-04-09/55265a9e124b7.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 非法操作:Public
+
+[ 2015-04-09T22:42:23+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+
+[ 2015-04-09T22:42:44+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2015-04-09T22:44:35+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2015-04-09T22:46:11+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+
+[ 2015-04-09T22:46:59+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2015-04-09T22:47:23+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2015-04-09T22:47:40+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+
+[ 2015-04-09T22:48:26+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+
+[ 2015-04-09T22:49:16+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2015-04-09T22:49:30+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2015-04-09T22:49:48+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2015-04-09T22:49:54+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2015-04-09T22:49:59+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2015-04-09T22:50:11+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2015-04-09T22:50:33+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+
+[ 2015-04-09T22:50:51+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2015-04-09T22:51:00+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2015-04-09T22:51:23+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+
+[ 2015-04-09T22:51:59+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001768s ]
+
+[ 2015-04-09T22:52:04+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2015-04-09T22:54:44+08:00 ] 127.0.0.1 /shop/Home/user/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2015-04-09T22:54:57+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2015-04-09T22:55:37+08:00 ] 127.0.0.1 /shop/Home/user/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2015-04-09T22:55:44+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2015-04-09T22:55:46+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2015-04-09T22:56:53+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2015-04-09T23:02:34+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2015-04-09T23:08:04+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2015-04-09T23:08:28+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2015-04-09T23:09:18+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+
+[ 2015-04-09T23:09:37+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2015-04-09T23:10:36+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2015-04-09T23:11:15+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2015-04-09T23:11:28+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+
+[ 2015-04-09T23:12:01+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+
+[ 2015-04-09T23:13:14+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2015-04-09T23:14:10+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+
+[ 2015-04-09T23:14:12+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2015-04-09T23:14:15+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+
+[ 2015-04-09T23:14:18+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2015-04-09T23:14:20+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2015-04-09T23:14:49+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+
+[ 2015-04-09T23:14:50+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2015-04-09T23:15:46+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2015-04-09T23:15:50+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+
+[ 2015-04-09T23:15:50+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2015-04-09T23:15:55+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+
+[ 2015-04-09T23:16:15+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2015-04-09T23:17:50+08:00 ] 127.0.0.1 /shop/Home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+
+[ 2015-04-09T23:17:54+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E7%BE%8E%E5%A5%B3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2015-04-09T23:18:05+08:00 ] 127.0.0.1 /shop/Home/index/shop_detail?p_name=%E9%9B%B7%E7%A5%9E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
