@@ -77,6 +77,7 @@ class ShoplistController extends Controller
 
    public function ORDERS(){
        $this->NewM->orders();
+       $this->success('订单提交成功！','/shop/Home/index/');
    }
 
 

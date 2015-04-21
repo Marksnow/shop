@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE HTML>
 <html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
@@ -7,19 +7,19 @@
   <meta name="keywords" content="">
   <title>Home</title>
   <link rel="shortcut icon" href="favicon.ico">
-  <link href="__PUBLIC__/css/style.css" media="screen" rel="stylesheet" type="text/css">
-  <link href="__PUBLIC__/css/grid.css" media="screen" rel="stylesheet" type="text/css">
-  <link href="__PUBLIC__/css/jquery.jqzoom.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="/shop/Public/css/style.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="/shop/Public/css/grid.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="/shop/Public/css/jquery.jqzoom.css" media="screen" rel="stylesheet" type="text/css">
 
-  <script src="__PUBLIC__/js/jquery-1.7.2.min.js" ></script>
-  <script src="__PUBLIC__/js/html5.js" ></script>
-  <script src="__PUBLIC__/js/jflow.plus.js" ></script>
-  <script src="__PUBLIC__/js/jquery.carouFredSel-5.2.2-packed.js"></script>
-  <script src="__PUBLIC__/js/checkbox.js"></script>
-  <script src="__PUBLIC__/js/radio.js"></script>
-  <script src="__PUBLIC__/js/selectBox.js"></script>
-  <script src="__PUBLIC__/js/jquery.jqzoom-core.js"></script>
-  <script src="__PUBLIC__/js/ajax.js" ></script>
+  <script src="/shop/Public/js/jquery-1.7.2.min.js" ></script>
+  <script src="/shop/Public/js/html5.js" ></script>
+  <script src="/shop/Public/js/jflow.plus.js" ></script>
+  <script src="/shop/Public/js/jquery.carouFredSel-5.2.2-packed.js"></script>
+  <script src="/shop/Public/js/checkbox.js"></script>
+  <script src="/shop/Public/js/radio.js"></script>
+  <script src="/shop/Public/js/selectBox.js"></script>
+  <script src="/shop/Public/js/jquery.jqzoom-core.js"></script>
+  <script src="/shop/Public/js/ajax.js" ></script>
   <script>
   $(document).ready(function() {
     $("select").selectBox();
@@ -82,11 +82,9 @@
 
       <div class="grid_6">
         <div class="welcome">
-          欢迎光临，<if condition="$Log.status eq 1">
-                   <span>{$Log.User}</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/shop/Home/index/logout">退出</a>
-          <else />
-          您可以 <a href="/shop/Home/index/login">登陆</a> 或 <a href="/shop/Home/index/register">创建一个帐户</a>.
-          </if>
+          欢迎光临，<?php if($Log["status"] == 1): ?><span><?php echo ($Log["User"]); ?></span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/shop/Home/index/logout">退出</a>
+          <?php else: ?>
+          您可以 <a href="/shop/Home/index/login">登陆</a> 或 <a href="/shop/Home/index/register">创建一个帐户</a>.<?php endif; ?>
 
         </div><!-- .welcome -->
       </div><!-- .grid_6 -->
@@ -114,7 +112,7 @@
     <header id="branding">
       <div class="grid_3">
         <hgroup>
-          <h1 id="site_logo" ><a href="/shop/Home/index/" title=""><img src="__PUBLIC__/images/logo.png" alt="Online Store Theme Logo"/></a></h1>
+          <h1 id="site_logo" ><a href="/shop/Home/index/" title=""><img src="/shop/Public/images/logo.png" alt="Online Store Theme Logo"/></a></h1>
           <h2 id="site_description">网上商店主题</h2>
         </hgroup>
       </div><!-- .grid_3 -->
@@ -148,11 +146,9 @@
             <li><a href="/shop/Home/user/info">我的收藏</a></li>
 		        <li class="separator">|</li>
 
-          <if condition="$Log.status neq 1">
-            <li><a href="/shop/Home/index/login">登录</a></li>
+          <?php if($Log["status"] != 1): ?><li><a href="/shop/Home/index/login">登录</a></li>
             <li class="separator">|</li>
-            <li><a href="/shop/Home/index/register">注册</a></li>
-          </if>   
+            <li><a href="/shop/Home/index/register">注册</a></li><?php endif; ?>   
 		                   
           </ul>
         </nav><!-- .private -->
@@ -206,15 +202,155 @@
 
 
   <!-- #子模块 -->
-  <block name="index_show"></block>
-  <block name="index_register"></block>
-  <block name="index_login"></block>
-  <block name="index_shop"></block>
-  <block name="index_sort"></block>
-  <block name="index_404"></block>
-  <block name="index_shopingcart"></block>
-  <block name="index_publish"></block>
-  <block name="index_usercenter"></block>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	<link rel="stylesheet" type="text/css" href="/shop/Public/css/bootstrap.min.css">
+  <script type="text/javascript" charset="utf-8" src="/shop/Public/ueditor/ueditor.config.js"></script>
+  <script type="text/javascript" charset="utf-8" src="/shop/Public/ueditor/ueditor.all.min.js"> </script>
+  <script src="/shop/Public/js/jquery-1.9.1.min.js" ></script>
+  <script type="text/javascript" src="/shop/Public/js/bootstrap.min.js"></script>
+
+   <div class="center">
+   	 <div class="container">
+         <ul class="nav nav-tabs">
+            <li class="active"><a href="#buy" data-toggle="tab" >买家订单</a></li>
+            <li><a href="#sell" data-toggle="tab">商家订单</a></li>
+            <li><a href="#public" data-toggle="tab">商品发布</a></li>         
+         </ul>
+
+         <div class="tab-content">
+            <div class="tab-pane active" id="buy">
+                 
+                 <!--买家订单-->
+                <div class="oder_tb col-lg-11 ">
+                  <table class="table">
+                    <thead>
+                      <tr>
+                        <td>订单号</td>
+                        <td>商品</td>
+                        <td>商品名称</td>
+                        <td>数量</td>
+                        <td>总价</td>
+                        <td>状态</td>
+                        <td>操作</td>
+                      </tr>
+                    </thead>
+                    <tbody>
+                     <?php if(is_array($Order)): $i = 0; $__LIST__ = $Order;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$ord): $mod = ($i % 2 );++$i;?><!--标签 -->
+ 
+                        <tr style="margin-top: 50px;">
+                          <td><?php echo ($ord["order_num"]); ?></td>
+                          <td style="display: none" class="ord_id"><?php echo ($ord["product_id"]); ?></td>
+                           <td style="display: none" class="ord_status"><?php echo ($ord["order_status"]); ?></td>
+                          <td><img src="/shop/Public/upload/<?php echo ($ord["product_IMG"]); ?>"></td>
+                          <td><a href="/shop/Home/index/shop_detail/p_id/<?php echo ($ord["product_id"]); ?>"><?php echo ($ord["order_shop_name"]); ?></a></td>
+                          <td>x&nbsp;<?php echo ($ord["order_shop_qty"]); ?></td>
+                          <td>￥&nbsp;<?php echo ($ord["order_shop_total"]); ?></td>
+                          
+                       <?php switch($ord["order_status"]): case "1": ?><td>待付款</td>
+                                       <td class="opear"><a href="">去付款</a>
+                                           <a href="">取消订单</a>
+                                       </td><?php break;?>
+                        <?php case "0": ?><td>待发货</td><?php break; endswitch;?> 
+
+                      </tr><?php endforeach; endif; else: echo "" ;endif; ?> <!--标签 -->
+                    </tbody>
+                  </table>
+                </div>
+               <!--买家订单-->
+
+            </div>
+            <div class="tab-pane" id="sell"></div>
+            <div class="tab-pane" id="public">
+                 
+                 <!---发布商品-->
+                <div class="col-lg-8 col-md-8 publish"> 
+                   <form action="/shop/Home/user/publish" enctype="multipart/form-data" method="post" id="form_1">
+                      <div class="form-group col-lg-12">
+                        <label class="col-lg-2 ">商品名称</label>
+                        <div class="col-lg-3">
+                           <input type="text" class="form-control" placeholder="" name="pro_name" id="p_name">
+
+                        </div>
+                      </div>
+
+                       <div class="form-group col-lg-12">
+                        <label class="col-lg-2 ">商品类型</label>
+                        <div class="col-lg-3">
+                           <select class="form-control" name="pro_type">
+                              <option value="0">电脑</option>
+                              <option value="1">人类</option>
+                              <option value="2">家电</option>
+                           </select> 
+                        </div>
+                      </div>
+
+                      <div class="form-group col-lg-12">
+                        <label class="col-lg-2 ">商品价格</label>
+                        <div class="col-lg-3">
+                           <input type="text" class="form-control" placeholder="" name="pro_price" id="p_price">
+                        </div>
+                      </div>
+
+                       <div class="form-group col-lg-12">
+                        <label class="col-lg-2 ">商品库存</label>
+                        <div class="col-lg-3">
+                           <input type="text" class="form-control" placeholder="" name="pro_stocks" id="p_stocks"> 
+                        </div>
+                      </div>
+
+                      <div class="form-group col-lg-12">
+                        <label class="col-lg-2 ">上传商品</label>
+                        <div class="col-lg-3"><input type="file" name="file_1"></div>
+                        <div class="col-lg-3"><input type="file" name="file_2"></div>
+                        <div class="col-lg-3"><input type="file" name="file_3"></div>
+                        </div>
+                      </div>
+                      
+                       <div class="form-group col-lg-12">
+                        <label class="col-lg-1">商品概述</label>
+                        <div class="col-lg-8">
+                           <textarea class="form-control" rows="6" name="pro_detail" id="pro_detail" style="display: none;"></textarea>
+                           
+                          <script id="container" type="text/plain" style="height:500px;"></script>
+                        </div>
+
+                        <script type="text/javascript">
+                         var ue=UE.getEditor('container');
+                         $(function(){
+                            $("form").submit(function(){  
+                               $("#pro_detail").val(ue.getContent());
+                               });
+                         })
+                        
+                        </script>
+                        
+
+                      </div>
+                     
+                     <div class="col-lg-12">
+                      <button type="submit" class="btn btn-success">提交</button>
+                     </div>
+                   </form>
+                 </div>
+                 <!---发布商品-->
+            </div>
+         </div>
+
+       
+     </div>
+   </div>
+   	 	
+  
+
   
 
   <footer>

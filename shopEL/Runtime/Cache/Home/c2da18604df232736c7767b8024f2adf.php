@@ -11,7 +11,7 @@
   <link href="/shop/Public/css/grid.css" media="screen" rel="stylesheet" type="text/css">
   <link href="/shop/Public/css/jquery.jqzoom.css" media="screen" rel="stylesheet" type="text/css">
 
-  <script src="/shop/Public/js/jquery-1.7.2.min.js" ></script>
+  <script src="/shop/Public/js/jquery-1.9.1.min.js" ></script>
   <script src="/shop/Public/js/html5.js" ></script>
   <script src="/shop/Public/js/jflow.plus.js" ></script>
   <script src="/shop/Public/js/jquery.carouFredSel-5.2.2-packed.js"></script>
@@ -141,7 +141,7 @@
 
         <nav class="private">
           <ul>
-            <li><a href="/shop/Home/user/info">我的账户</a></li>
+            <li><a href="/shop/Home/user/center">我的账户</a></li>
 		        <li class="separator">|</li>
             <li><a href="">我的收藏</a></li>
 		        <li class="separator">|</li>
@@ -577,6 +577,8 @@
   <div class="clear"></div>
 
 
+  
+  
   
   
   

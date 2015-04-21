@@ -173,9 +173,9 @@ class ShoplistModel extends Model
                 'order_status' => 1
           );
          M('orders')->add($ord_write);
-              
+        
       }
-
+    
   }
 
 }

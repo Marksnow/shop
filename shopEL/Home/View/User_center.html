@@ -1,0 +1,150 @@
+<extend name="./basic" />
+ <block name="index_usercenter">
+
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/bootstrap.min.css">
+  <script type="text/javascript" charset="utf-8" src="__PUBLIC__/ueditor/ueditor.config.js"></script>
+  <script type="text/javascript" charset="utf-8" src="__PUBLIC__/ueditor/ueditor.all.min.js"> </script>
+  <script src="__PUBLIC__/js/jquery-1.9.1.min.js" ></script>
+  <script type="text/javascript" src="__PUBLIC__/js/bootstrap.min.js"></script>
+
+   <div class="center">
+   	 <div class="container">
+         <ul class="nav nav-tabs">
+            <li class="active"><a href="#buy" data-toggle="tab" >买家订单</a></li>
+            <li><a href="#sell" data-toggle="tab">商家订单</a></li>
+            <li><a href="#public" data-toggle="tab">商品发布</a></li>         
+         </ul>
+
+         <div class="tab-content">
+            <div class="tab-pane active" id="buy">
+                 
+                 <!--买家订单-->
+                <div class="oder_tb col-lg-11 ">
+                  <table class="table">
+                    <thead>
+                      <tr>
+                        <td>订单号</td>
+                        <td>商品</td>
+                        <td>商品名称</td>
+                        <td>数量</td>
+                        <td>总价</td>
+                        <td>状态</td>
+                        <td>操作</td>
+                      </tr>
+                    </thead>
+                    <tbody>
+                     <volist name="Order" id="ord"> <!--标签 -->
+ 
+                        <tr style="margin-top: 50px;">
+                          <td>{$ord.order_num}</td>
+                          <td style="display: none" class="ord_id">{$ord.product_id}</td>
+                           <td style="display: none" class="ord_sta">{$ord.order_status}</td>
+                          <td><img src="__PUBLIC__/upload/{$ord.product_IMG}"></td>
+                          <td><a href="/shop/Home/index/shop_detail/p_id/{$ord.product_id}">{$ord.order_shop_name}</a></td>
+                          <td>x&nbsp;{$ord.order_shop_qty}</td>
+                          <td>￥&nbsp;{$ord.order_shop_total}</td>
+                          
+                       <switch name="ord.order_status"> 
+                         <case value="1">
+                                       <td>待付款</td>
+                                       <td class="opear"><a href="">去付款</a>
+                                           <a href="">取消订单</a>
+                                       </td>
+                        </case>
+                        <case value="0">
+                                       <td>待发货</td>
+                        </case>
+                       </switch> 
+
+                      </tr>
+
+                     </volist> <!--标签 -->
+                    </tbody>
+                  </table>
+                </div>
+               <!--买家订单-->
+
+            </div>
+            <div class="tab-pane" id="sell"></div>
+            <div class="tab-pane" id="public">
+                 
+                 <!---发布商品-->
+                <div class="col-lg-8 col-md-8 publish"> 
+                   <form action="/shop/Home/user/publish" enctype="multipart/form-data" method="post" id="form_1">
+                      <div class="form-group col-lg-12">
+                        <label class="col-lg-2 ">商品名称</label>
+                        <div class="col-lg-3">
+                           <input type="text" class="form-control" placeholder="" name="pro_name" id="p_name">
+
+                        </div>
+                      </div>
+
+                       <div class="form-group col-lg-12">
+                        <label class="col-lg-2 ">商品类型</label>
+                        <div class="col-lg-3">
+                           <select class="form-control" name="pro_type">
+                              <option value="0">电脑</option>
+                              <option value="1">人类</option>
+                              <option value="2">家电</option>
+                           </select> 
+                        </div>
+                      </div>
+
+                      <div class="form-group col-lg-12">
+                        <label class="col-lg-2 ">商品价格</label>
+                        <div class="col-lg-3">
+                           <input type="text" class="form-control" placeholder="" name="pro_price" id="p_price">
+                        </div>
+                      </div>
+
+                       <div class="form-group col-lg-12">
+                        <label class="col-lg-2 ">商品库存</label>
+                        <div class="col-lg-3">
+                           <input type="text" class="form-control" placeholder="" name="pro_stocks" id="p_stocks"> 
+                        </div>
+                      </div>
+
+                      <div class="form-group col-lg-12">
+                        <label class="col-lg-2 ">上传商品</label>
+                        <div class="col-lg-3"><input type="file" name="file_1"></div>
+                        <div class="col-lg-3"><input type="file" name="file_2"></div>
+                        <div class="col-lg-3"><input type="file" name="file_3"></div>
+                        </div>
+                      </div>
+                      
+                       <div class="form-group col-lg-12">
+                        <label class="col-lg-1">商品概述</label>
+                        <div class="col-lg-8">
+                           <textarea class="form-control" rows="6" name="pro_detail" id="pro_detail" style="display: none;"></textarea>
+                           
+                          <script id="container" type="text/plain" style="height:500px;"></script>
+                        </div>
+
+                        <script type="text/javascript">
+                         var ue=UE.getEditor('container');
+                         $(function(){
+                            $("form").submit(function(){  
+                               $("#pro_detail").val(ue.getContent());
+                               });
+                         })
+                        
+                        </script>
+                        
+
+                      </div>
+                     
+                     <div class="col-lg-12">
+                      <button type="submit" class="btn btn-success">提交</button>
+                     </div>
+                   </form>
+                 </div>
+                 <!---发布商品-->
+            </div>
+         </div>
+
+       
+     </div>
+   </div>
+   	 	
+  
+</block>

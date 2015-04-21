@@ -141,7 +141,7 @@
 
         <nav class="private">
           <ul>
-            <li><a href="/shop/Home/user/info">我的账户</a></li>
+            <li><a href="/shop/Home/user/center">我的账户</a></li>
 		        <li class="separator">|</li>
             <li><a href="">我的收藏</a></li>
 		        <li class="separator">|</li>
@@ -686,6 +686,8 @@ rhoncus risus欧盟乌仁娜的Pretium。</p>
  
 
 
+  
+  
   
   
   

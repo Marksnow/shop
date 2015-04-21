@@ -2748,3 +2748,26 @@ ul.f_contact li+li+li{background: url(../images/li_let.png) no-repeat 0px 50%;}
 #main .registed input[type="password"]{ width: 255px;}
 #main.register .submit{ clear: both;}
 .cart_li span{ background: #59B7C2; color: #fff; padding: 5px; border-radius: 10px; margin-left: 5px;}
+
+/*---------- order --------*/
+.center{}
+.center tr{ height: 30px;}
+.center tr img{ height: 80px;}
+.center .table tbody tr{ height: 80px;}
+.center .table thead tr{ background:#F5F7F9; }
+.center .opear a{ display: block; margin-bottom: 10px;}
+
+
+.center .nav-tabs {border: none;margin-left: 50px; margin-bottom: 10px;}
+.center .nav-tabs a {color: #a6a6a6;}
+.center .nav-tabs a:hover {background: #fff;border: none;
+}
+.center .nav-tabs a:link { border:none;}
+.center .nav-tabs li.active { border: none;}
+.center .nav-tabs li.active a {border-bottom: 1px solid #78C4CD;color: #000;}
+.center .nav-tabs li.active a:hover {border-bottom: 1px solid #78C4CD;padding: 10px 15px; border-right: none; border-top: none; border-left: none;}
+.center .nav-tabs li.active a:focus{ border-bottom: 1px solid #78C4CD;border-right: none; border-top: none; border-left: none;color: #000; }
+
+/*---publish --*/
+.center form label{ color: #797979; font-weight: normal;}
+.center .publish{ }
